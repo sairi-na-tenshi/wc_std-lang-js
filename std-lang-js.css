@@ -1,0 +1,35 @@
+std\:lang-js-ghost {
+	color: #eee;
+}
+
+std\:lang-js {
+	line-height: 1em;
+	font-family: monospace;
+	white-space: pre;
+}
+
+std\:lang-js-remark {
+	color: #bbb;
+}
+
+std\:lang-js-string {
+	color: #393;
+}
+
+std\:lang-js-keyword {
+	color: #339;
+	font-weight: bold;
+}
+
+std\:lang-js-regexp {
+	color: #936;
+}
+
+std\:lang-js-regexp-control {
+	font-weight: bold;
+}
+
+std\:lang-js-bracket {
+	font-weight: bold;
+	color: #333;
+}
